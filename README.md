@@ -262,8 +262,9 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 ###Something for fun
 
 - [ Machine Learning A Cappella - Overfitting Thriller!](https://www.youtube.com/watch?v=DQWI1kvmwRg)
-- [Machine Learning Jokes](http://yann.lecun.com/ex/fun/index.html)
-
+- [Machine learning jokes!](http://yann.lecun.com/ex/fun/index.html)
+- [Some more jokes!](https://www.cs.cmu.edu/~mwytock/jokes.html)
+- [This happened for real!](http://acidcow.com/pics/7700-cmu-machine-learning-dept-members-protest-at-g20.html)
 
 
 
