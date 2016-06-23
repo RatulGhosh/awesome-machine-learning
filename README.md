@@ -1,5 +1,8 @@
 # Awesome Machine Learning Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)    [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+Contributing
+------------
+Please feel free to send me [pull requests](https://github.com/RatulGhosh/awesome-machine-learning/pulls) 
 
 Introduction
 ------------
@@ -9,7 +12,7 @@ There are several awesome materials spread all over the internet. This list is m
 Table of Contents
 -----------------
 
-- [Introduction](#introduction)
+- [Basics](#basics)
 - [Deep Learning](#deep-learning)
 - [Natural Language Processing](#natural-language-processing)
 - [Data Science](#data-science)
@@ -22,7 +25,7 @@ Table of Contents
 :green_book:  - Notes
 
 
-###Introduction
+###Basics
 
 - [CSC 2515 ](http://www.cs.toronto.edu/~zemel/inquiry/element_detail.php?ID=3) **Introduction to Machine Learning** *University of Toronto*  :computer: :green_book:
 	- This course gives an overview of many concepts, techniques, and algorithms in machine learning
