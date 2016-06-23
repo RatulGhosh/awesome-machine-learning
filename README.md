@@ -2,7 +2,7 @@
 
 Contributing
 ------------
-Please feel free to send me [pull requests](https://github.com/RatulGhosh/awesome-machine-learning/pulls) 
+Please feel free to send [pull requests.](https://github.com/RatulGhosh/awesome-machine-learning/pulls) 
 
 Introduction
 ------------
