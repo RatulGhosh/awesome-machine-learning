@@ -17,6 +17,7 @@ Table of Contents
 - [Natural Language Processing](#natural-language-processing)
 - [Data Science](#data-science)
 - [Related to ML](#related-to-ml)
+- [Something for fun](#something-for-fun)
 
 ### Icons
 
@@ -257,6 +258,11 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- [Book](http://stanford.edu/class/ee103/mma.html)
 	- [Assignments](http://stanford.edu/class/ee103/homework.html)
 	- [Code](http://stanford.edu/class/ee103/julia_files)
+
+###Something for fun
+
+- [ Machine Learning A Cappella - Overfitting Thriller!](https://www.youtube.com/watch?v=DQWI1kvmwRg)
+- [Machine Learning Jokes](http://yann.lecun.com/ex/fun/index.html)
 
 
 
