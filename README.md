@@ -21,8 +21,8 @@ Table of Contents
 
 ### Icons
 
-:video_camera:  - Lecture Videos
-:computer:  - Assignments
+:video_camera:  - Lecture Videos   
+:computer:  - Assignments  
 :green_book:  - Notes
 
 
