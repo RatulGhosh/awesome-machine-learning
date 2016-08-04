@@ -265,6 +265,7 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 - [Machine learning jokes!](http://yann.lecun.com/ex/fun/index.html)
 - [Some more jokes!](https://www.cs.cmu.edu/~mwytock/jokes.html)
 - [This happened for real!](http://acidcow.com/pics/7700-cmu-machine-learning-dept-members-protest-at-g20.html)
+- [LossFunctions](http://lossfunctions.tumblr.com/)
 
 
 
