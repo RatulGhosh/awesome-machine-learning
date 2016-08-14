@@ -83,7 +83,7 @@ Table of Contents
 
 - [UCL course on RL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) **Reinforcement Learning** *University College London* :video_camera: :computer: :green_book:
 	- This course provides a brief introduction to reinforcement learning
-	- [Lectures](https://www.youtube.com/playlist?list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa)
+	- [Lectures](https://www.youtube.com/playlist?list=PLacBNHqv7n9gp9cBMrA6oDbzz_8JqhSKo)
 	- [Notes](https://hadovanhasselt.wordpress.com/2016/01/12/ucl-course/)
 
 - [18.465](http://ocw.mit.edu/courses/mathematics/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/) **Statistical Learning Theory** *MIT*  :computer: :green_book:
