@@ -18,6 +18,7 @@ Table of Contents
 - [Data Science](#data-science)
 - [Related to ML](#related-to-ml)
 - [Something for fun](#something-for-fun)
+- [Miscellaneous](#miscellaneous)
 
 ### Icons
 
@@ -269,9 +270,9 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 
 ###Miscellaneous
 
-- [TED talks on ML]()
-- [TED talks on AI]()
-- [FAQs on ML]()
-- [FAQs on Data Science]()
+- [TED talks on ML](http://www.ted.com/topics/machine+learning)
+- [TED talks on AI](http://www.ted.com/playlists/310/talks_on_artificial_intelligen)
+- [FAQs on ML](https://www.quora.com/topic/Machine-Learning/faq)
+- [FAQs on Data Science](https://www.quora.com/topic/Data-Science/faq)
 
 
