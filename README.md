@@ -93,7 +93,7 @@ Table of Contents
 	- [Assignments](http://ocw.mit.edu/courses/mathematics/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/assignments/)
 
 
-###Deep Learning
+### Deep Learning
 
 - [CS 231n](http://cs231n.stanford.edu/) **Convolutional Neural Networks for Visual Recognition** *Stanford University*   :computer:    :green_book:    :video_camera:  
 	- Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision.
@@ -128,7 +128,7 @@ Table of Contents
 - [11-785](http://deeplearning.cs.cmu.edu/) **Deep Learning** *Carnegie Mellon University*   :computer:  
 	- The course presents the subject through a series of seminars and labs, which will explore it from its early beginnings, and work themselves to some of the state of the art. The seminars will cover the basics of deep learning and the underlying theory, as well as the breadth of application areas to which it has been applied, as well as the latest issues on learning from very large amounts of data. We will concentrate largely, although not entirely, on the connectionist architectures that are most commonly associated with it. *Lectures* and *Reading Notes* are available on the page.
 
-###Natural Language Processing
+### Natural Language Processing
 
 - [CS 224N](http://web.stanford.edu/class/cs224n/syllabus.shtml#lec1) **Natural Language Processing** *Stanford University* :video_camera:    :computer:    :green_book: 
 
@@ -160,7 +160,7 @@ Table of Contents
 
 
 
-###Data Science
+### Data Science
 
 - [EECS E6893 & EECS E6895](http://www.ee.columbia.edu/~cylin/course/bigdata/) **Big Data Analytics & Advanced Big Data Analytics** *Columbia University*   :computer:    :green_book: 
 	- Students will gain knowledge on analyzing Big Data. It serves as an introductory course for graduate students who are expecting to face Big Data storage, processing, analysis, visualization, and application issues on both workplaces and research environments.
@@ -196,7 +196,7 @@ Table of Contents
 
 
 
-###Related to ML
+### Related to ML
 
 - [SLAM Course - WS13/14](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/) **Robot Mapping** *Albert-Ludwigs-Universität Freiburg* :video_camera: :green_book:
 	
@@ -260,7 +260,7 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- [Assignments](http://stanford.edu/class/ee103/homework.html)
 	- [Code](http://stanford.edu/class/ee103/julia_files)
 
-###Something for fun
+### Something for fun
 
 - [ Machine Learning A Cappella - Overfitting Thriller!](https://www.youtube.com/watch?v=DQWI1kvmwRg)
 - [Machine learning jokes!](http://yann.lecun.com/ex/fun/index.html)
@@ -268,7 +268,7 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 - [This happened for real!](http://acidcow.com/pics/7700-cmu-machine-learning-dept-members-protest-at-g20.html)
 - [LossFunctions](http://lossfunctions.tumblr.com/)
 
-###Miscellaneous
+### Miscellaneous
 
 - [TED talks on ML](http://www.ted.com/topics/machine+learning)
 - [TED talks on AI](http://www.ted.com/playlists/310/talks_on_artificial_intelligen)
