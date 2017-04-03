@@ -27,7 +27,7 @@ Table of Contents
 :green_book:  - Notes
 
 
-###Basics
+### Basics
 
 - [CSC 2515 ](http://www.cs.toronto.edu/~zemel/inquiry/element_detail.php?ID=3) **Introduction to Machine Learning** *University of Toronto*  :computer: :green_book:
 	- This course gives an overview of many concepts, techniques, and algorithms in machine learning
