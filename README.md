@@ -198,7 +198,7 @@ Table of Contents
 
 ### Related to ML
 
-- [UBC Computer Science 322](https://www.cs.ubc.ca/~mack/CS322/) **Introduction to Artificial Intelligence** *Alan K. Mackworth Unviersity of British Columbia* :computer: :green_book:
+- [UBC Computer Science 322](https://www.cs.ubc.ca/~mack/CS322/) **Introduction to Artificial Intelligence** *Unviersity of British Columbia* :computer: :green_book:
 	
 	- This course provides an introduction to the field of artificial intelligence.  The major topics covered will include reasoning and representation, search, constraint satisfaction problems, planning, logic, reasoning under uncertainty, and planning under uncertainty. 
 	- [Textbook](https://artint.info/2e/html/ArtInt2e.html)
