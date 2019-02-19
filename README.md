@@ -198,6 +198,12 @@ Table of Contents
 
 ### Related to ML
 
+- [UBC Computer Science 322](https://www.cs.ubc.ca/~mack/CS322/) **Introduction to Artificial Intelligence** *Alan K. Mackworth Unviersity of British Columbia* :computer: :green_book:
+	
+	- This course provides an introduction to the field of artificial intelligence.  The major topics covered will include reasoning and representation, search, constraint satisfaction problems, planning, logic, reasoning under uncertainty, and planning under uncertainty. 
+	- [Textbook](https://artint.info/2e/html/ArtInt2e.html)
+  	- [Lecture Lectures](https://www.cs.ubc.ca/~mack/CS322/)
+	
 - [SLAM Course - WS13/14](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/) **Robot Mapping** *Albert-Ludwigs-Universität Freiburg* :video_camera: :green_book:
 	
 	- The course will cover different topics and techniques in the context of environment modeling with mobile robots. It includes techniques such as SLAM with the family of Kalman filters, information filters, particle filters, graph-based approaches, least-squares error minimization, techniques for place recognition and appearance-based mapping, and data association. 
