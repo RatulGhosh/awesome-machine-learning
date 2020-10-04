@@ -273,19 +273,19 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 
 ### Links fpr free courses
 <br>Automate the Boring Stuff with Python Programming: https://bit.ly/3jqnJHk<br>
-Network Ethical Hacking for Beginners (Kali 2020, Hands-on): https://bit.ly/33jlpfA
-Create Awesome WatchOS Apps Using SwiftUI: https://bit.ly/30r25uY
-Python Bootcamp 2020 Build 15 working Applications and Games: https://bit.ly/3nevH8O
-Milestones in Python 3.8 with exciting new features: https://bit.ly/33kQqj1
-Fundamentals of Data Analysis Expression DAX: https://bit.ly/2Gh6z0c
-Data Visualization in Python with Covid-19 Analysis Project: https://bit.ly/3jnLJul
-Complete Google Certified Educator Level 1 Masterclass: https://bit.ly/36p8lHm
-Microsoft Power BI: Latest 2020 Beginner to Expert Modules: https://bit.ly/3l7QEAo
-Get Started With NodeJS : For Beginners 2020: https://bit.ly/3jpxF3N
-Python And Flask Framework Complete Course For Beginners: https://bit.ly/3ijPPlX
-Free Cybersecurity Essentials Certification Course: https://bit.ly/3iwISOR
-Whatsapp stock market bot with Python, Twilio & MarketStack: https://bit.ly/3l58ync
-(All courses are from udemy. so enroll fast)
+Network Ethical Hacking for Beginners (Kali 2020, Hands-on): https://bit.ly/33jlpfA<br>
+Create Awesome WatchOS Apps Using SwiftUI: https://bit.ly/30r25uY<br>
+Python Bootcamp 2020 Build 15 working Applications and Games: https://bit.ly/3nevH8O<br>
+Milestones in Python 3.8 with exciting new features: https://bit.ly/33kQqj1<br>
+Fundamentals of Data Analysis Expression DAX: https://bit.ly/2Gh6z0c<br>
+Data Visualization in Python with Covid-19 Analysis Project: https://bit.ly/3jnLJul<br>
+Complete Google Certified Educator Level 1 Masterclass: https://bit.ly/36p8lHm<br>
+Microsoft Power BI: Latest 2020 Beginner to Expert Modules: https://bit.ly/3l7QEAo<br>
+Get Started With NodeJS : For Beginners 2020: https://bit.ly/3jpxF3N<br>
+Python And Flask Framework Complete Course For Beginners: https://bit.ly/3ijPPlX<br>
+Free Cybersecurity Essentials Certification Course: https://bit.ly/3iwISOR<br>
+Whatsapp stock market bot with Python, Twilio & MarketStack: https://bit.ly/3l58ync<br>
+(All courses are from udemy. so enroll fast)<br>
 
 ### Something for fun
 
