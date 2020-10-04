@@ -272,7 +272,7 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- [Code](http://stanford.edu/class/ee103/julia_files)
 
 ### Links fpr free courses
-Automate the Boring Stuff with Python Programming: https://bit.ly/3jqnJHk
+<br>Automate the Boring Stuff with Python Programming: https://bit.ly/3jqnJHk<br>
 Network Ethical Hacking for Beginners (Kali 2020, Hands-on): https://bit.ly/33jlpfA
 Create Awesome WatchOS Apps Using SwiftUI: https://bit.ly/30r25uY
 Python Bootcamp 2020 Build 15 working Applications and Games: https://bit.ly/3nevH8O
